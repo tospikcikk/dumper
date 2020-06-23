@@ -300,3 +300,4 @@ netvarm_flCustomBloomScale => 0x9E4
 netvarm_flCustomAutoExposureMin => 0x9DC
 netvarm_flCustomAutoExposureMax => 0x9E0
 08:53:50 [INFO] Finished netvar scanning85/85 items successful
+gg
