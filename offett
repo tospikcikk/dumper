@@ -1,7 +1,7 @@
 using System;
 // 23-06-2020 03:11:07
 
-namespace tospik {
+namespace blazedumper {
     public const Int32 timestamp = 15928746670718730
     public static class netvars
     {
@@ -158,4 +158,4 @@ namespace tospik {
         public const Int32 set_abs_angles = 0x1D52D0;
         public const Int32 set_abs_origin = 0x1D5110;
     }
-} // namespace tospik
+} // namespace blazedumper
