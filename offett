@@ -1,7 +1,3 @@
-using System;
-
-// 2021-01-12 11:21:08.663709500 UTC
-
 namespace hazedumper
 {
     public const Int32 timestamp = 1610450468;
